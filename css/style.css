@@ -1,0 +1,56 @@
+.mar-10{
+  margin-bottom:10px;
+}
+
+.input-no-spinner::-webkit-inner-spin-button {
+-webkit-appearance: none;
+}
+
+
+.tableReport
+{
+	margin:0px !important;
+	font-size: 10px;
+}
+
+.tableReport thead
+{
+	font-size: 12px;
+	font-weight: bold;
+	
+}
+
+.custom_act td {
+    font-size: 10px !important;
+    font-family: Arial;
+}
+  
+.modal.fade.in {
+    top: 5% !important;
+}
+
+ 
+ .dt-button.buttons-collection {
+        
+color: #FFF  !important;
+       
+ background-color: #32c5d2 !important;
+  
+     border-color: #32c5d2 !important;
+    }
+    
+
+   /* .dt-button-collection{
+    top: 192px !important;
+   
+ left: 1220px !important;
+    width: 80px !important;
+   
+ }*/
+
+
+
+table tbody tr td {
+  font-size: 11px !important;
+  font-weight: normal !important;
+}
